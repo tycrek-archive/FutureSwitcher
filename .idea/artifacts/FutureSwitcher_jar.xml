@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FutureSwitcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FutureSwitcher_jar</output-path>
+    <root id="archive" name="FutureSwitcher.jar">
+      <element id="module-output" name="FutureSwitcher" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-io-2.7-bin/commons-io-2.7/commons-io-2.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
